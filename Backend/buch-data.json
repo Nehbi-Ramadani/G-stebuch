@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "message": "Hello, this is my first entry!"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "message": "Nice to be here! This is my second entry."
+  },
+  {
+    "id": 3,
+    "name": "Michael John",
+    "email": "michaeljohn@example.com",
+    "message": "Greetings! Here's my third entry."
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "email": "emilydavis@example.com",
+    "message": "Hello everyone! This is my fourth entry."
+  },
+  {
+    "id": 1705589003204,
+    "name": "Biggie",
+    "email": "Biggie@Biggie-",
+    "message": "Habs Geschaft"
+  }
+]
